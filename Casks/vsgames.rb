@@ -1,6 +1,6 @@
 cask "vsgames" do
-  version "1.0.0"
-  sha256 "68cac21953abeacdfab8fecd985772f96ad488df4325567fcc5e3e1983bf57fb"
+  version "1.1.0"
+  sha256 "b6164a171951e7f6c9123d86c47d320dc1e3367c971f2e2b720f14f55c3452e4"
 
   url "https://github.com/yaltiok/VSGames/releases/download/v#{version}/VSGames.dmg"
   name "VS Games"
